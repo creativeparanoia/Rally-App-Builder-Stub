@@ -3,7 +3,9 @@ Ext.define('CustomApp', {
     componentCls: 'app',
     launch: function() {
         //Write app code here
+asdfsadasdfasdasdfasdasdasdf
 
-        //API Docs: https://help.rallydev.com/apps/2.1/doc/
+
+//API Docs: https://help.rallydev.com/apps/2.1/doc/
     }
 });
